@@ -4,8 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Obed.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Currently climbing the stairs of technologies in the data ecosystem
     </i><br>
     <a href="https://www.linkedin.com/in/obednwachukwu">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
